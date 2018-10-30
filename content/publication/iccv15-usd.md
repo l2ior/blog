@@ -27,7 +27,7 @@ abstract = "Most computational methods in social interaction focus on individual
 abstract_short = ""
 
 # Featured image thumbnail (optional)
-image_preview = ""
+image_preview = "teaser/teaser_usd.jpg"
 
 # Is this a selected publication? (true/false)
 selected = false

@@ -27,7 +27,7 @@ abstract = "We introduce a new cosegmentation approach, MOMI-cosegmentation, to 
 abstract_short = ""
 
 # Featured image thumbnail (optional)
-image_preview = ""
+image_preview = "teaser/teaser_momi.jpg"
 
 # Is this a selected publication? (true/false)
 selected = false

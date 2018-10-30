@@ -26,7 +26,7 @@ abstract = "Event discovery aims to discover a temporal segment of interest, suc
 abstract_short = ""
 
 # Featured image thumbnail (optional)
-image_preview = ""
+image_preview = "teaser/teaser_ced.jpg"
 
 # Is this a selected publication? (true/false)
 selected = false

@@ -27,7 +27,7 @@ abstract = "Unsupervised discovery of commonalities in images has recently attra
 abstract_short = ""
 
 # Featured image thumbnail (optional)
-image_preview = ""
+image_preview = "teaser/teaser_tcd.jpg"
 
 # Is this a selected publication? (true/false)
 selected = false

@@ -26,7 +26,7 @@ abstract = "Mixture of regressors (MoR) is a widely used regression approach for
 abstract_short = ""
 
 # Featured image thumbnail (optional)
-image_preview = ""
+image_preview = "teaser/teaser_mogr.jpg"
 
 # Is this a selected publication? (true/false)
 selected = false

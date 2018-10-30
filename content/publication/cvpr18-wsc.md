@@ -24,7 +24,7 @@ abstract = "We present a scalable weakly supervised clustering approach to learn
 abstract_short = "We present a scalable weakly supervised clustering approach to learn facial action units (AUs) from large, freely available web images. We showed more improvement via web images with inaccurate annotations."
 
 # Featured image thumbnail (optional)
-image_preview = "cvpr18-teaser.jpg"
+image_preview = "teaser/teaser_wsc.jpg"
 
 # Is this a selected publication? (true/false)
 selected = true

@@ -27,7 +27,7 @@ abstract = "Relevance feedback (RF) and region-based image retrieval (RBIR) are 
 abstract_short = ""
 
 # Featured image thumbnail (optional)
-image_preview = ""
+image_preview = "teaser/teaser_rbir.jpg"
 
 # Is this a selected publication? (true/false)
 selected = false

@@ -27,7 +27,7 @@ abstract = "Varied sources of error contribute to the challenge of facial action
 abstract_short = ""
 
 # Featured image thumbnail (optional)
-image_preview = ""
+image_preview = "teaser/teaser_cpm.jpg"
 
 # Is this a selected publication? (true/false)
 selected = false

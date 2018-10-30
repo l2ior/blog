@@ -27,7 +27,7 @@ abstract = "Facial action units (AU) are the fundamental units to decode human f
 abstract_short = ""
 
 # Featured image thumbnail (optional)
-image_preview = ""
+image_preview = "teaser/teaser_ant.jpg"
 
 # Is this a selected publication? (true/false)
 selected = false

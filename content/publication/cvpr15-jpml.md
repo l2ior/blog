@@ -26,7 +26,7 @@ abstract = "The face is one of the most powerful channel of nonverbal communicat
 abstract_short = ""
 
 # Featured image thumbnail (optional)
-image_preview = ""
+image_preview = "teaser/teaser_jpml.jpg"
 
 # Is this a selected publication? (true/false)
 selected = false

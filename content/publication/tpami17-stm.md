@@ -26,7 +26,7 @@ abstract = "Automatic facial AU and expression detection from videos is a long-s
 abstract_short = ""
 
 # Featured image thumbnail (optional)
-image_preview = ""
+image_preview = "teaser/teaser_stm_pami.jpg"
 
 # Is this a selected publication? (true/false)
 selected = false

@@ -26,7 +26,7 @@ abstract = "Rough face alignments result in suboptimal performance of face ident
 abstract_short = ""
 
 # Featured image thumbnail (optional)
-image_preview = ""
+image_preview = "teaser/teaser_ins.jpg"
 
 # Is this a selected publication? (true/false)
 selected = false

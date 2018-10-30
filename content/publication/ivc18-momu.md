@@ -1,10 +1,10 @@
 +++
-title = "Cascade of Tasks for Facial Expression Analysis"
-date = 2016-07-01
+title = "Learning Facial Action Units with Spatiotemporal Cues and Multi-label Sampling"
+date = 2018-10-01
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Xiaoyu Ding", "Wen-Sheng Chu", "Fernando De la Torre", "Jeffrey F. Cohn"]
+authors = ["Wen-Sheng Chu", "Fernando De la Torre", "Jeffrey F. Cohn"]
 
 # Publication type.
 # Legend:
@@ -22,11 +22,11 @@ publication = "*Image and Vision Computing*"
 publication_short = "*IVC*"
 
 # Abstract and optional shortened version.
-abstract = "Existing work in AU detection typically formulate the problem as classification between frames or segments of positive and negative examples, and emphasizes the use of different features or classifiers. This paper proposes a novel AU event detection method, Cascade of Tasks (CoT), which combines the use of different tasks (ie, frame-level detection, segment-level detection and transition detection). We train CoT sequentially embracing diversity to ensure robustness and generalization to unseen data. Unlike conventional frame-based metrics that evaluate frames independently, we propose a new event-based metric to evaluate detection performance at the event-level. We show how the CoT method consistently outperforms state-of-the-art approaches in both frame-based and event-based metrics, across four datasets that differ in complexity."
+abstract = "We propose a hybrid network architecture to jointly model AU relationships, spatial representation and temporal consistency. Our network naturally addresses the three issues together, and yields superior performance compared to existing methods that consider these issues independently. Extensive experiments were conducted on two large spontaneous datasets, GFT and BP4D, with more than 400,000 frames coded with 12 AUs. To address class imbalance within and between batches during training the network, we introduce multi-labeling sampling strategies that further increase accuracy when AUs are relatively sparse. On both datasets, we report improvements over a standard multi-label CNN and feature-based state-of-the-art. Finally, we provide visualization of the learned AU models, which, to our best knowledge, reveal how machines see AUs for the first time."
 abstract_short = ""
 
 # Featured image thumbnail (optional)
-image_preview = "teaser/teaser_cot.jpg"
+image_preview = "teaser/teaser_momu.jpg"
 
 # Is this a selected publication? (true/false)
 selected = false
@@ -40,11 +40,12 @@ projects = []
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
 tags = ["Journal"]
+add_note = "(In press)"
 
 # Links (optional).
-url_pdf = "https://www.sciencedirect.com/science/article/pii/S0262885616300348"
+url_pdf = ""
 url_preprint = ""
-url_code = "https://github.com/l2ior/metrics"
+url_code = ""
 url_dataset = ""
 url_project = ""
 url_slides = ""

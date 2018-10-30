@@ -26,7 +26,7 @@ abstract = "Most AU detection methods use one-versus-all classifiers without con
 abstract_short = ""
 
 # Featured image thumbnail (optional)
-image_preview = ""
+image_preview = "teaser/teaser_jpml_tip.jpg"
 
 # Is this a selected publication? (true/false)
 selected = false

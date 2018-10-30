@@ -25,7 +25,7 @@ abstract = "Knowing that AUs are active on sparse facial regions, RL aims to ide
 abstract_short = ""
 
 # Featured image thumbnail (optional)
-image_preview = ""
+image_preview = "teaser/teaser_drml.jpg"
 
 # Is this a selected publication? (true/false)
 selected = false

@@ -26,7 +26,7 @@ abstract = "We present *video co-summarization*, a novel perspective to video su
 abstract_short = ""
 
 # Featured image thumbnail (optional)
-image_preview = ""
+image_preview = "teaser/teaser_cosum.jpg"
 
 # Is this a selected publication? (true/false)
 selected = false

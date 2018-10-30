@@ -27,7 +27,7 @@ abstract = "Action unit detection in infants relative to adults presents unique 
 abstract_short = ""
 
 # Featured image thumbnail (optional)
-image_preview = ""
+image_preview = "teaser/teaser_infant.jpg"
 
 # Is this a selected publication? (true/false)
 selected = false

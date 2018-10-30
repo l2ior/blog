@@ -26,7 +26,7 @@ abstract = "This study presents a novel kernel discriminant transformation (KDT)
 abstract_short = ""
 
 # Featured image thumbnail (optional)
-image_preview = ""
+image_preview = "teaser/teaser_kdt_pr.jpg"
 
 # Is this a selected publication? (true/false)
 selected = false

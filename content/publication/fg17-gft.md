@@ -26,7 +26,7 @@ abstract = "No currently available facial expression database includes multiple 
 abstract_short = ""
 
 # Featured image thumbnail (optional)
-image_preview = ""
+image_preview = "teaser/teaser_gft.jpg"
 
 # Is this a selected publication? (true/false)
 selected = false

@@ -26,7 +26,7 @@ abstract = "People vary markedly in facial morphology (e.g., heavy versus delica
 abstract_short = ""
 
 # Featured image thumbnail (optional)
-image_preview = ""
+image_preview = "teaser/teaser_stm.jpg"
 
 # Is this a selected publication? (true/false)
 selected = false

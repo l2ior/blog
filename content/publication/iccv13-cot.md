@@ -26,7 +26,7 @@ abstract = "AU detection is typically posed as a classification problem between 
 abstract_short = ""
 
 # Featured image thumbnail (optional)
-image_preview = ""
+image_preview = "teaser/teaser_cot.jpg"
 
 # Is this a selected publication? (true/false)
 selected = false

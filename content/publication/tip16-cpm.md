@@ -27,7 +27,7 @@ abstract = "To address learning with the hard AU samples (such as inter-personal
 abstract_short = ""
 
 # Featured image thumbnail (optional)
-image_preview = ""
+image_preview = "teaser/teaser_cpm_tip.jpg"
 
 # Is this a selected publication? (true/false)
 selected = false

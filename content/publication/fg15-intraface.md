@@ -27,7 +27,7 @@ abstract = "This paper presents IntraFace (IF), a publicly-available software pa
 abstract_short = ""
 
 # Featured image thumbnail (optional)
-image_preview = ""
+image_preview = "teaser/teaser_intraface.jpg"
 
 # Is this a selected publication? (true/false)
 selected = false

@@ -27,7 +27,7 @@ abstract = "Existing circular object detection methods can be broadly classified
 abstract_short = ""
 
 # Featured image thumbnail (optional)
-image_preview = ""
+image_preview = "teaser/teaser_ppv.jpg"
 
 # Is this a selected publication? (true/false)
 selected = false
