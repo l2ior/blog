@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/l2ior/l2ior.github.io.git
+	branch = master
