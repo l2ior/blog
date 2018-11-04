@@ -1,10 +1,10 @@
 +++
-title = "Learning Facial Action Units with Spatiotemporal Cues and Multi-label Sampling"
-date = 2018-10-01
+title = "Affective Facial Computing: Generalizability across Domains"
+date = 2018-11-02
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Wen-Sheng Chu", "Fernando De la Torre", "Jeffrey F. Cohn"]
+authors = ["Jeffrey F. Cohn", "Itir O. Ertugrul", "Wen-Sheng Chu", "Jeffrey M. Girard", "Laszlo A. Jeni", "Zakia Hammal"]
 
 # Publication type.
 # Legend:
@@ -15,21 +15,22 @@ authors = ["Wen-Sheng Chu", "Fernando De la Torre", "Jeffrey F. Cohn"]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["2"]
+publication_types = ["6"]
 
 # Publication name and optional abbreviated version.
-publication = "*Image and Vision Computing*"
-publication_short = "*IVC*"
+publication = "*Multimodal Behavior Analysis in the Wild (1st Edition)*"
+publication_short = ""
+add_note = "(In press)"
 
 # Abstract and optional shortened version.
-abstract = "We propose a hybrid network architecture to jointly model AU relationships, spatial representation and temporal consistency. Our network naturally addresses the three issues together, and yields superior performance compared to existing methods that consider these issues independently. Extensive experiments were conducted on two large spontaneous datasets, GFT and BP4D, with more than 400,000 frames coded with 12 AUs. To address class imbalance within and between batches during training the network, we introduce multi-labeling sampling strategies that further increase accuracy when AUs are relatively sparse. On both datasets, we report improvements over a standard multi-label CNN and feature-based state-of-the-art. Finally, we provide visualization of the learned AU models, which, to our best knowledge, reveal how machines see AUs for the first time."
+abstract = "Affective facial computing (AFC) refers to the use of computer techniques to analyze and synthesize facial behavior that may be related to emotion and other cognitive-affective states. This chapter evaluates the state-of-the-art in the generalizability of AFC systems across domains and also reviews approaches that are designed to improve such generalizability. We address two questions that we regard as critical to the field: (1) To what extent do AFC systems generalize to new data sources, or domains? (2) What approaches show the most promise in improving generalizability?"
 abstract_short = ""
 
 # Featured image thumbnail (optional)
-image_preview = "teaser/teaser_momu.jpg"
+image_preview = "teaser/teaser_afc.jpg"
 
 # Is this a selected publication? (true/false)
-selected = false
+selected = true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -39,12 +40,11 @@ projects = []
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Journal"]
-add_note = "(In press)"
+tags = []
 
 # Links (optional).
-url_pdf = "https://www.sciencedirect.com/science/article/pii/S0262885618301720"
-url_preprint = ""
+url_pdf = ""
+url_preprint = "https://www.elsevier.com/books/multimodal-behavior-analysis-in-the-wild/alameda-pineda/978-0-12-814601-9"
 url_code = ""
 url_dataset = ""
 url_project = ""

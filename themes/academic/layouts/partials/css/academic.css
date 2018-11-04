@@ -48,6 +48,11 @@ body {
   }
 }
 
+.img-wrapper {
+  display: inline-block;
+  overflow: hidden;
+}
+
 .paper_thumbnail {
   border: 3px solid #eee;
   padding: 0px;
@@ -56,8 +61,10 @@ body {
 }
 
 img.paper_thumbnail:hover {
-  box-shadow: 0px 0px 4px 2px #888888;
+  box-shadow: 0px 0px 4px 3px #888888;
   border: 3px solid rgb(213, 68, 119);
+  transform: scale(1.03);
+  -webkit-transform: scale(1.03);
 }
 
 .max-width-640 {
@@ -104,7 +111,7 @@ h1, h2, h3, h4, h5, h6 {
   overflow-wrap: break-word; /* Ensures very long heading words do not overflow into content. */
 }
 h1 {
-  font-size: 2.25rem;
+  font-size: 1.8rem;
 }
 h2 {
   margin-top: 1rem;
@@ -374,7 +381,7 @@ a[data-fancybox] img {
 }
 
 .section-heading h1 {
-  margin: 0 0 10px 0;
+  margin: 0 0 0px 0;
 }
 
 .section-heading p {

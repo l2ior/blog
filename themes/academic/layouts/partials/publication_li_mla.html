@@ -1,10 +1,10 @@
 <div class="pub-list-item" style="margin-bottom: 0.8rem; margin-left: 0px; float:left; display:inline-block;" itemscope itemtype="http://schema.org/CreativeWork">
-  <div style="float: left; width: 15%; margin-right: 10px; margin-top: 5px;">
+  <div style="float: left; width: 180; margin-right: 10px; margin-top: 5px;">
     <a href="{{ .Permalink }}">
-      <img src="{{ "/img/" | relURL }}{{ .Params.image_preview }}" width=200 class="paper_thumbnail">
+      <img src="{{ "/img/" | relURL }}{{ .Params.image_preview }}" width=180 class="paper_thumbnail">
     </a>
   </div>
-  <div style="float: left; width: 79%;">
+  <div style="float: left; width: 60%;">
   <i class="fa fa-file-text-o pub-icon" aria-hidden="true"></i>
   <span itemprop="author">
     {{ with .Params.authors }}
