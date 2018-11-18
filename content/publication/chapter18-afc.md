@@ -18,7 +18,7 @@ authors = ["Jeffrey F. Cohn", "Itir O. Ertugrul", "Wen-Sheng Chu", "Jeffrey M. G
 publication_types = ["6"]
 
 # Publication name and optional abbreviated version.
-publication = "*Multimodal Behavior Analysis in the Wild (1st Edition)*"
+publication = "*Multimodal Behavior Analysis in the Wild, Elesvier: Academic Press*"
 publication_short = ""
 add_note = "(In press)"
 
